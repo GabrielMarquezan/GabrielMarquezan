@@ -25,6 +25,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+
 </div>
 
 ###

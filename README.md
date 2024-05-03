@@ -2,7 +2,7 @@
 
 - 🧠 I'm a Computer Science student (UFSM) who aspires to become an AI engineer
 - 👨‍💻 Currently learning Python and AI basics 
-- ❤ Passionate about programming, anime and pets
+- ❤️ Passionate about programming, anime and pets
 
 ###
 

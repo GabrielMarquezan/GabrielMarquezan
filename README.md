@@ -1,12 +1,12 @@
 <h2 align="left">Hello, World! I'm Gabriel Marquezan 🙋</h2>
 
 - 🧠 I'm a Computer Science student (UFSM) who aspires to become an AI engineer
-- 👨‍💻 Currently learning Python and AI basics 
+- 👨‍💻 Currently learning AI basics - Scikit-Learn, Pandas and Statistical Learning
 - ♥️ Passionate about programming, anime and pets
 
 ###
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marquezan-308710312/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.marquezan29@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g_marquezan/)
 

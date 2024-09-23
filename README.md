@@ -1,4 +1,4 @@
-<h2 align="left">Hello, World! I'm Gabriel Marquezan 🙋</h2>
+<h2 align="left">Hello, World! I'm Gabriel Marquezan 🙋‍♂️</h2>
 
 - 🧠 I'm a Computer Science student (UFSM) who aspires to become an AI engineer
 - 👨‍💻 Currently learning AI basics - Scikit-Learn, Pandas and Statistical Learning

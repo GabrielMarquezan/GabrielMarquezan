@@ -1,7 +1,7 @@
 <h2 align="left">Hello, World! I'm Gabriel Marquezan 🙋‍♂️</h2>
 
-- 🧠 I'm a Computer Science student (UFSM) who aspires to become an AI engineer
-- 👨‍💻 Currently learning AI basics - Scikit-Learn, Pandas and Statistical Learning
+- 👨‍💻 I'm a Computer Science student (UFSM) who aspires to become a Machine Learning Engineer 👨‍💻
+- 🧠 Constantly improving my statistical and technological knowledge!
 - ♥️ Passionate about programming, anime and pets
 
 ###
@@ -17,16 +17,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMarquezan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<h3 align="left">Main Technologies 💻</h3>
+<h2 align="left">Main technologies 💻</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
 </div>
 
 ###

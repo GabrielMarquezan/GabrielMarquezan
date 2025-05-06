@@ -1,7 +1,7 @@
 <h2 align="left">Hello, World! I'm Gabriel Marquezan 🙋‍♂️</h2>
 
-- 👨‍💻 I'm a Computer Science student (UFSM) who aspires to become a Machine Learning Engineer 👨‍💻
-- 🧠 Constantly improving my statistical and technological knowledge!
+- 👨‍💻 I'm a Computer Science student (UFSM) who aspires to become a MLOps 👨‍💻
+- 🧠 Constantly improving my technological knowledge!
 - ♥️ Passionate about programming, anime and pets
 
 ###

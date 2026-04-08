@@ -11,20 +11,11 @@
 
 ### 👨‍💻 About Me
 
-I am a Machine Learning Engineer currently transitioning into **Cloud Infrastructure and DevSecOps**. As a **2x AWS Certified** professional and an active community advocate, I specialize in building highly resilient, scalable, and secure automated environments.
+I am a Cloud Infrastructure and DevSecOps enthusiast and Machine Learning Engineer. As a 2x AWS Certified professional and an active community leader, I specialize in building highly resilient, scalable, and secure automated environments in the cloud.
 
 - ☁️ **Community:** Leader of the *AWS User Group Coração do Rio Grande*.
-- 🎯 **Trajectory:** Aiming for the AWS Golden Jacket; currently studying for GCP Associate Cloud Engineer and AWS CloudOps Associate.
-- 🚀 **What I Build:** Automated ETL pipelines, containerized edge ML workloads, and low-level Linux/Unix virtual memory subsystems.
-- 💡 **Interests:** Secure-by-design architectures, SRE practices, and continuous learning. 
-
----
-
-### 📈 Career Highlights & Impact
-
-- **Infrastructure Automation:** Orchestrated asynchronous document processing pipelines using Python and AWS SDK, reducing manual data retrieval times by **90%**.
-- **DataOps at Scale:** Engineered resilient REST API integrations with robust rate-limiting and session management to securely process over **178,000 records** across 51 diverse sources.
-- **Systems Engineering:** Developed a Virtual Memory subsystem in C with demand paging and strict process isolation, simulating low-level Linux/Unix OS architecture.
+- 🎯 **Trajectory:** Aiming for the AWS Golden Jacket; currently studying for AWS CloudOps Associate.
+- 💡 **Interests:** SRE, Cloud, DevOps, Secutity, MLOps.
 
 ---
 
@@ -32,16 +23,16 @@ I am a Machine Learning Engineer currently transitioning into **Cloud Infrastruc
 
 **Cloud & DevOps** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=aws,oci,docker,linux,bash,gitlab,github" />
 </a>
 
 **Programming Languages & DataOps** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,java,postgres,pytorch" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,postgres,pytorch,pandas" />
 </a>
 
 <br>
 
 <div align="center">
-  <i>"Focusing on solutions is more efficient than focusing on problems—especially when you automate them."</i>
+  <i>"The best things come from outside your comfort zone."</i>
 </div>

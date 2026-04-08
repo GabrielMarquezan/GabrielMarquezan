@@ -23,7 +23,7 @@ I am a Cloud Infrastructure and DevSecOps enthusiast and Machine Learning Engine
 
 **Cloud & DevOps** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,oci,docker,linux,bash,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,gitlab,github" />
 </a>
 
 **Programming Languages & DataOps** <br>

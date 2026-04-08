@@ -1,38 +1,47 @@
-<h2 align="left">Hello, World! I'm Gabriel Marquezan 🙋‍♂️</h2>
+<h1 align="center">Hi there, I'm Gabriel Marquezan 👋</h1>
 
-- 👨‍💻 I'm a Machine Learning Engineer and Computer Science student (UFSM) who aspires to become a DevOps Engineer 👨‍💻
-- 🧠 Constantly improving my knowledge and technical skills!
-- ♥️ Passionate about programming, anime and pets
-
-###
-
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marquezan-308710312/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.marquezan29@gmail.com)
-
-<h2 align="left">Main technologies 💻</h2>
-
-###
+<h3 align="center">Cloud Professional | DevSecOps Enthusiast | AWS User Group Leader</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <a href="https://www.linkedin.com/in/gabrielmarquezan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gabrielmarquezanp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-###
+<br>
+
+### 👨‍💻 About Me
+
+I am a Machine Learning Engineer currently transitioning into **Cloud Infrastructure and DevSecOps**. As a **2x AWS Certified** professional and an active community advocate, I specialize in building highly resilient, scalable, and secure automated environments.
+
+- ☁️ **Community:** Leader of the *AWS User Group Coração do Rio Grande*.
+- 🎯 **Trajectory:** Aiming for the AWS Golden Jacket; currently studying for GCP Associate Cloud Engineer and AWS CloudOps Associate.
+- 🚀 **What I Build:** Automated ETL pipelines, containerized edge ML workloads, and low-level Linux/Unix virtual memory subsystems.
+- 💡 **Interests:** Secure-by-design architectures, SRE practices, and continuous learning. 
+
+---
+
+### 📈 Career Highlights & Impact
+
+- **Infrastructure Automation:** Orchestrated asynchronous document processing pipelines using Python and AWS SDK, reducing manual data retrieval times by **90%**.
+- **DataOps at Scale:** Engineered resilient REST API integrations with robust rate-limiting and session management to securely process over **178,000 records** across 51 diverse sources.
+- **Systems Engineering:** Developed a Virtual Memory subsystem in C with demand paging and strict process isolation, simulating low-level Linux/Unix OS architecture.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Cloud & DevOps** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,gitlab,github" />
+</a>
+
+**Programming Languages & DataOps** <br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,java,postgres,pytorch" />
+</a>
+
+<br>
+
+<div align="center">
+  <i>"Focusing on solutions is more efficient than focusing on problems—especially when you automate them."</i>
+</div>

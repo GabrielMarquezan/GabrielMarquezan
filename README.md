@@ -1,38 +1,36 @@
 <h1 align="center">Hi there, I'm Gabriel Marquezan 👋</h1>
 
-<h3 align="center">Cloud Professional | DevSecOps Enthusiast | AWS User Group Leader</h3>
+<h3 align="center">Machine Learning Engineer | MLOps & Cloud | 2x AWS Certified</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabrielmarquezan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gabrielmarquezanp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gabrielmarquezan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabrielmarquezanp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 <br>
 
 ### 👨‍💻 About Me
 
-I am a Cloud Infrastructure and DevSecOps enthusiast and Machine Learning Engineer. As a 2x AWS Certified professional and an active community leader, I specialize in building highly resilient, scalable, and secure automated environments in the cloud.
+Machine Learning Engineer focused on building scalable and production-ready ML systems.
 
-- ☁️ **Community:** Leader of the *AWS User Group Coração do Rio Grande*.
-- 🎯 **Trajectory:** Aiming for the AWS Golden Jacket; currently studying for AWS CloudOps Associate.
-- 💡 **Interests:** SRE, Cloud, DevOps, Secutity, MLOps.
+I specialize in deploying and containerizing machine learning models, designing data pipelines, and building cloud-based ML solutions using AWS. My work sits at the intersection of Machine Learning and Cloud Infrastructure, with a strong focus on MLOps.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Cloud & DevOps** <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=aws,py,pytorch,docker,linux,bash,gitlab" />
 </a>
 
-**Programming Languages & DataOps** <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,java,postgres,pytorch,pandas" />
-</a>
+---
 
 <br>
 
 <div align="center">
-  <i>"The best things come from outside your comfort zone."</i>
+  <i>"Building machine learning systems that actually run in production."</i>
 </div>

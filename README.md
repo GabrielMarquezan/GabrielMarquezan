@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gabriel Marquezan 👋</h1>
 
-<h3 align="center">Machine Learning Engineer | MLOps & Cloud | 2x AWS Certified</h3>
+<h3 align="center">Machine Learning Engineer | MLE Associte by AWS | 3x AWS Certified | AWS User Group Leader</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielmarquezan">
@@ -15,16 +15,18 @@
 
 ### 👨‍💻 About Me
 
-Machine Learning Engineer focused on building scalable and production-ready ML systems.
+My main interests include Machine Learning, MLOps, AI Engineering, and Cloud Computing. I enjoy working across the entire ML lifecycle, from experimentation and model development to deployment, APIs, infrastructure, and observability.
 
-I specialize in deploying and containerizing machine learning models, designing data pipelines, and building cloud-based ML solutions using AWS. My work sits at the intersection of Machine Learning and Cloud Infrastructure, with a strong focus on MLOps.
+I currently work mainly with Python, Go, PyTorch, Scikit-learn, PostgreSQL, Docker, AWS, and MLflow.
+
+I'm also an AWS User Group Leader, sharing knowledge, learning with the community, and exploring new technologies in cloud and machine learning.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,py,pytorch,docker,linux,bash,gitlab" />
+  <img src="https://skillicons.dev/icons?i=py,go,aws,pytorch,docker,linux,bash" />
 </a>
 
 ---

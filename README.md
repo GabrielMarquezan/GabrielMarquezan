@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gabriel Marquezan 👋</h1>
 
-<h3 align="center">Machine Learning Engineer | MLE Associte by AWS | 3x AWS Certified | AWS User Group Leader</h3>
+<h3 align="center">Machine Learning Engineer | MLE Associate by AWS | 3x AWS Certified | AWS User Group Leader</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielmarquezan">
